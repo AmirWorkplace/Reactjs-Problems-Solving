@@ -1,0 +1,10 @@
+{
+  "name": "real-time-countdown-timer-by-js-and-reactjs",
+  "version": "1.0.0",
+  "description": "Try to make a Repository for Problem solving in Reactjs and Vannila JS",
+  "main": "index.js",
+  "repository": "https://github.com/AmirWorkplace/Reactjs-Problems-Solving.git",
+  "author": "AmirWorkplace <amirralli300400@gmail.com>",
+  "license": "MIT",
+  "private": null
+}
